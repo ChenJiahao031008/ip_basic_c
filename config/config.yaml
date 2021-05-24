@@ -1,0 +1,11 @@
+%YAML:1.0
+
+DatasetDir: "../data/"
+
+maxDepth    : 100
+minDepth    : 0.1
+
+FillType    : "fast"
+Extrapolate : 1
+BlurType    : "bilateral"
+Resize      : 0
