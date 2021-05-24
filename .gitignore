@@ -1,2 +1,4 @@
 build/
 bin/
+src/JBF.cc
+include/JBF.h

@@ -14,7 +14,7 @@ include_directories(
 include_directories( "/usr/include/eigen3" )
 
 add_library(${PROJECT_NAME} SHARED
-    src/JBF.cc
+    # src/JBF.cc
     src/Kernel.cc
 )
 
